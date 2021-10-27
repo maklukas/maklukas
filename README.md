@@ -8,6 +8,7 @@ I've been learning a bit of Kotlin lately
 
 <img src="https://www.logo.wine/a/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.svg" alt="kotlinlogo" width="200"/>
 
-and having fun on ![codegym](https://codegym.cc/assets/images/site/logo/logo-cg-full.svg)
+and having fun on CodeGym...
 
+<img src="https://codegym.cc/assets/images/site/logo/logo-cg-full.svg" alt="codegym" width="200"/>
 
